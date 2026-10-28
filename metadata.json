@@ -1,0 +1,8 @@
+{
+  "name": "Remix IMovies - Movie Ticket Booking \u0026 Cinema Management",
+  "description": "Full-stack movie ticket booking and cinema management platform with real-time seat tracking, showtime scheduling, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
